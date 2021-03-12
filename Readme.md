@@ -35,3 +35,5 @@ There are 2 basic ways to run the code:
     If on Linux replace `python.exe` with `python`
 
 In the end it will Display the number of images downloaded and the time taken to go through the whole process.
+
+Thanks. :)
