@@ -10,6 +10,10 @@ This is a three step process:
 2. Finding the image source
 3. Going to the source and downloading the image.
 
+### Modules Used
+1. Requests
+2. BeautifulSoup
+3. Concurrent
 ### Why threading?
 
 Threading provide a way to improve application performance through parallelism.
